@@ -1,0 +1,19 @@
+Software Development Engineer Intern
+
+Responsibilities:
+- Build, test and maintain software components.
+- Write clean code and participate in code reviews.
+- Work with data structures, algorithms and APIs.
+- Collaborate with product and engineering teams.
+- Debug issues and improve reliability.
+
+Required qualifications:
+- Pursuing a degree in Computer Science or related field.
+- Proficiency in C++, Java or Python.
+- Understanding of data structures, algorithms and OOP.
+- Familiarity with Git and software development fundamentals.
+
+Preferred:
+- REST APIs, SQL or cloud platforms.
+- Personal or academic software projects.
+- Testing, debugging and basic system design.
